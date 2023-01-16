@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Eva Wu</title>
   
-  
+  <subtitle>行銷&amp;資工混血人</subtitle>
   <link href="https://evaaaaawu.github.io/atom.xml" rel="self"/>
   
   <link href="https://evaaaaawu.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://evaaaaawu.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Eva Wu</name>
     
   </author>
   
